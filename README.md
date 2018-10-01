@@ -1,6 +1,6 @@
 # Bitfinex Ladderer
 
-This program aims to help traders ladder their positions over a specified price range. Position size will be equally calculated and uniformly distributed.
+This program aims to help traders ladder their positions on Bitfinex over a specified price range. Position size will be equally calculated and uniformly distributed.
 
 **DISCLAIMER: USE AT YOUR OWN RISK. I AM NOT RESPONSIBLE FOR TRADING LOSSES. THIS IS NOT A MONEY MAKING PROGRAM!!**
 
