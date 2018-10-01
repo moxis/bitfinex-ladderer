@@ -28,7 +28,7 @@ Firstly go to Bitfinex and create a new pair of API Keys. Please ensure that you
 
 Afterwards, place the JSON file into the same directory as the script.
 
-### Usage
+## Usage
 
 Simply start the script and follow the instructions. Below is an example of laddering LONGS for BTC from $6600 to $6700. 
 
