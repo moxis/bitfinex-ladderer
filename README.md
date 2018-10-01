@@ -30,7 +30,7 @@ Afterwards, place the JSON file into the same directory as the script.
 
 ### Usage
 
-Simply start the script and follow the instructions. Below is an example of laddering LONGS for BTC between the prices 6600-6700. 
+Simply start the script and follow the instructions. Below is an example of laddering LONGS for BTC from $6600 to $6700. 
 
 ```
 $ python app.py
